@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Pierre Robentz Cassion website!"
 date:   2017-07-06 14:31:36 -0400
 categories: jekyll update
 ---
